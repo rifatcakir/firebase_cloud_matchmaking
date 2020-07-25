@@ -1,1 +1,3 @@
-# firebase_cloud_matchmaking
+# Firebase Cloud Matchmaking System
+
+For more information
